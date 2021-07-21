@@ -16,6 +16,9 @@ chase, the Air Force Chief catches the Enemy Jet, and takes it back to their sec
 - Here, we learn this Air Force Chief skill, known as the particle filter, as applied
 to a highly nonlinear model. :)!
 
+- Particle is generated using Monte Carlo Distrubution
+- Weight Update equation follows Gausian Distribution
+
 # Snapshots
 
 - Particle Filter with less particles (N=10):
